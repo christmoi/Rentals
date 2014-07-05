@@ -1,0 +1,8 @@
+name: Rentals
+author: Christmoi
+main: fr.christmoi.rentals.Rentals
+version: 0.1 Dev
+depend: [WorldEdit, Vault]
+commands:
+  Rentals:
+    description: Rentals

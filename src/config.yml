@@ -1,0 +1,7 @@
+Mysql:
+  host: Hostname
+  user: user
+  password: password
+  port: 3306
+  dbName: dbName
+bankAccount: etat
